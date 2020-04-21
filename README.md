@@ -1,2 +1,2 @@
-# CV
- latest resume
+# Resume
+## my updated resume April 2020.
